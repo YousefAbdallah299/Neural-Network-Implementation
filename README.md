@@ -17,9 +17,6 @@ A machine learning project for predicting data using a custom-built neural netwo
 - [Architecture](#architecture)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Getting Started
